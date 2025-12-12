@@ -1,0 +1,45 @@
+```css
+body {
+margin: 0;
+font-family: Arial, sans-serif;
+background: #f5f5f5;
+color: #333;
+text-align: center;
+}
+
+
+header {
+padding: 40px 20px;
+background: linear-gradient(45deg, #4ade80, #22c55e);
+color: white;
+}
+
+
+main {
+margin-top: 40px;
+}
+
+
+button {
+background: #22c55e;
+padding: 12px 22px;
+border: none;
+border-radius: 8px;
+font-size: 16px;
+cursor: pointer;
+color: white;
+transition: 0.25s;
+}
+
+
+button:hover {
+background: #16a34a;
+}
+
+
+footer {
+margin-top: 50px;
+padding: 20px;
+background: #e5e5e5;
+font-size: 14px;
+}
